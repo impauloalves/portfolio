@@ -1,7 +1,6 @@
 {
-  "name": "impauloalves-portfolio",
-  "private": true,
-  "description": "My personal portfolio built with Gatsby.",
+  "name": "portfolio",
+  "description": "My portfolio built with Gatsby.",
   "version": "1.0.0",
   "author": "Paulo Alves <impauloalves@gmail.com>",
   "dependencies": {
